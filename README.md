@@ -1,4 +1,4 @@
-# ArtificalIntelligence
+# Artifical Intelligence
 
 Related projects with Artificial Intelligence algorithms 
 
